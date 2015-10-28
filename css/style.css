@@ -252,6 +252,12 @@ small-button {
     text-align: center;
     }
 
+.projects .caption {
+    font-size: 0.75rem;
+    text-align: center;
+
+}
+
 .projects h1 {
     margin-top: 10.25rem;
     margin-left: 2rem;
